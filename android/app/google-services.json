@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "934306034603",
+    "firebase_url": "https://startupgame-c1175-default-rtdb.firebaseio.com",
+    "project_id": "startupgame-c1175",
+    "storage_bucket": "startupgame-c1175.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934306034603:android:9418e191984257a83cd8ee",
+        "android_client_info": {
+          "package_name": "com.startupx.startupx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "934306034603-sjpk65mkgdv1fcuj0vrtu2jfi4euuhom.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIDV2XtS2lF1zZJ7hf0tT0DjUl2Dj4eOs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "934306034603-sjpk65mkgdv1fcuj0vrtu2jfi4euuhom.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
